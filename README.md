@@ -1,1 +1,1 @@
-# class-tech-notes
+# tech-class-notes
